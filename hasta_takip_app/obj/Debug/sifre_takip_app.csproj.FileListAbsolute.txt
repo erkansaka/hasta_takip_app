@@ -1,0 +1,5 @@
+C:\Users\THINDY\Desktop\hasta_takip_app-main\hasta_takip_app\obj\Debug\hasta_takip_app.csprojAssemblyReference.cache
+C:\Users\THINDY\Desktop\hasta_takip_app-main\hasta_takip_app\obj\Debug\hasta_takip_app.Anaform.resources
+C:\Users\THINDY\Desktop\hasta_takip_app-main\hasta_takip_app\obj\Debug\hasta_takip_app.login.resources
+C:\Users\THINDY\Desktop\hasta_takip_app-main\hasta_takip_app\obj\Debug\hasta_takip_app.Properties.Resources.resources
+C:\Users\THINDY\Desktop\hasta_takip_app-main\hasta_takip_app\obj\Debug\hasta_takip_app.csproj.GenerateResource.cache
